@@ -53,6 +53,8 @@ then, Start JSON Server
 ```
 api data is ready to use
 
+note : If you want to use the api I made for this project, you can visit my repository : https://github.com/nandoperd/kops
+
 ## axios
 first you need to install axios dependence
 // Make a request for a user with a given ID

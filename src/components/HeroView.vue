@@ -26,11 +26,11 @@
     <!-- Mobile -->
     <div class="d-sm-block d-md-none">
       <div class="row mt-4 align-items-center">
-        <div class="col-md-6 mb-3 text-center"> <!-- Perubahan disini, menambahkan class "text-center" -->
+        <div class="col-md-6 mb-3 text-center">
           <img src="../assets/images/kopihero.svg" width="60%" />
         </div>
         <div class="col-md-6">
-          <div class="d-flex h-100 justify-content-center align-items-center"> <!-- Perubahan disini, menambahkan class "align-items-center" -->
+          <div class="d-flex h-100 justify-content-center align-items-center">
             <div class="justify-content-center align-self-center">
               <h2>
                 <strong>Kopi buat temen kerja,</strong>

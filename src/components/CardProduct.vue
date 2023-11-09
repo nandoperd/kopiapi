@@ -7,7 +7,6 @@
     />
     <div class="card-body">
       <h5 class="card-title">{{ product.nama }}</h5>
-      <!-- <p class="card-text">Harga : Rp. {{ product.harga }}</p> -->
       <p class="card-text">Harga : {{ formatRupiah(product.harga) }}</p>
       <router-link class="btn btn-success" :to="'/kopi/' + product.id"
         ><b-icon-cart></b-icon-cart> Pesan</router-link
